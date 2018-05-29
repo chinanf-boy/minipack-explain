@@ -31,7 +31,7 @@ Explanation
 - [2. createGraph](#createGraph)
 - [1. createAsset](#createAsset)
 - [3. bundle](#bundle)
-- [完](#Done)
+- [完](#done)
 - [use link](#use-link)
 
 ---
@@ -626,7 +626,9 @@ function bundle(graph) {
 
 ### Done
 
-让我们呢重新看一下吧
+让我们, 重新看一下吧
+
+你可以将, 示例项目中 `minipack/exmaples.js` 加加减减
 
 ``` js
 (function(modules) {
