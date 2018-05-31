@@ -26,6 +26,14 @@ Explanation
 
 本目录
 
+两种阅读方式
+
+1. 应原作者要求 原项目, [解释写在代码中 minipack.js](./minipack.js)
+
+> 使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿
+
+2. 就是往下, 写在 `readme.md`
+
 - [模块捆绑器是什么](#模块捆绑器)
 - [本项目解释了什么](#做了什么)
 - [2. createGraph](#createGraph)
@@ -195,7 +203,7 @@ function createGraph(entry) {
   const mainAsset = createAsset(entry);
 ```
 
-- [createAsset 先看这个](#createasset)
+- [createAsset 请先看这个](#createasset)
 
 我们将使用`队列{queue}`来解析每个`资产{asset}`的依赖关系. 我们正在定义一个只有 入口资产 的数组. 
 
@@ -254,6 +262,8 @@ function createGraph(entry) {
 ``` js
   return queue;
 ```
+
+- [ 应用依赖图 到 bundle](#bundle)
 
 <details>
 
