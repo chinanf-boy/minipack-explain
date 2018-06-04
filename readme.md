@@ -1,11 +1,11 @@
 
-## 📦minipack  [![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain)
+## 📦minipack  [![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain) 
 
-> 用javascript编写的现代模块打包器的简化示例
+> 用javascript编写的现代模块打包器的简化示例 
 
 ### 介绍
 
-作为前端开发人员,我们花费大量时间处理类似的工具[的WebPack](https://github.com/webpack/webpack),[Browserify](https://github.com/browserify/browserify),和[包](https://github.com/parcel-bundler/parcel). 
+作为前端开发人员,我们花费大量时间处理类似的工具像 [WebPack](https://github.com/webpack/webpack),[Browserify](https://github.com/browserify/browserify), 和[Parcel](https://github.com/parcel-bundler/parcel). 
 
 了解这些工具的工作方式可以帮助我们更好地决定如何编写代码. 通过理解我们的代码如何转化为一个包以及该包的外观如何,我们也可以更好地进行调试. 
 
