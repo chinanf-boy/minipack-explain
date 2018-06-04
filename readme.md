@@ -25,7 +25,9 @@ $ npm install
 $ node src/minipack.js
 ```
 
-### 酷啊,我从哪里开始?
+### 酷啊,我从哪里开始? 
+
+> 两种方式
 
 1. 前往源代码: [src/minipack.js](src/minipack.js). 
 
