@@ -1,7 +1,11 @@
 
 ## 📦minipack  [![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain) 
 
-> 用javascript编写的现代模块打包器的简化示例 
+ 用javascript编写的现代模块打包器的简化示例 
+ 
+ 这是一篇 `翻译{Translations}`
+
+ [github source](https://github.com/ronami/minipack)
 
 ### 介绍
 
