@@ -52,4 +52,3 @@ $ node src/minipack.js
 ## More
 
 [更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
-## More
