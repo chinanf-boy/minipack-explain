@@ -1,5 +1,10 @@
 
-## 📦minipack  [![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain) 
+## 📦minipack  [![explain]][source] [![translate-svg]][translate-list]
+
+[explain]: http://llever.com/explain.svg
+[source]: https://github.com/chinanf-boy/Source-Explain
+[translate-svg]: http://llever.com/translate.svg
+[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
  用javascript编写的现代模块打包器的简化示例 
  
