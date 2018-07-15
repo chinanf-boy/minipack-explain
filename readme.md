@@ -49,3 +49,11 @@ $ node src/minipack.js
 - [Babylon](https://github.com/babel/babel/tree/master/packages/babel-parser)
 -   [Babel 插件手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 -   [webpack: 依赖管理](https://webpack.js.org/guides/dependency-management)
+
+## 生活
+
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+
+## More
+
+[更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
