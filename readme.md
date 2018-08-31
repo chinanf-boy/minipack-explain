@@ -50,10 +50,25 @@ $ node src/minipack.js
 -   [Babel 插件手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 -   [webpack: 依赖管理](https://webpack.js.org/guides/dependency-management)
 
+## 校对 ✅
+
+<!-- doc-templite START generated -->
+<!-- repo = 'ronami/minipack' -->
+<!-- commit = 'c540b5c2490b8f64caf30eaf89d358d70984e954' -->
+<!-- time = '2018 5.30' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 5.30 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/ronami/minipack.svg
+[commit]: https://github.com/ronami/minipack/tree/c540b5c2490b8f64caf30eaf89d358d70984e954
+
+<!-- doc-templite END generated -->
+
+### 贡献
+
+欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
+
 ## 生活
 
 [help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
-
-## More
-
-[更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
